@@ -1,6 +1,6 @@
 # Phosphorescence Example  
 
-Self-study of Creative Coding in Web. The expremental project that re-implements [webgl-protoplanet](https://codepen.io/shubniggurath/pen/qLdPMQ) example using [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+Self-study of Creative Coding in Web. The expremental project that re-implements [webgl-phosphorescence](https://codepen.io/shubniggurath/pen/qLdPMQ) example using [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
 ## Available Scripts
 
